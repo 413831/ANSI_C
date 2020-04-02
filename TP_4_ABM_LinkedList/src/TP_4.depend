@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1542329992 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+	"../inc/LinkedList.h"
+	"../inc/utn.h"
+
+1542328795 /home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/inc/Employee.h
+
+1542320226 /home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/inc/LinkedList.h
+
+1542328795 /home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/inc/utn.h
+
+1542329570 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/input.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/utn.h"
+
+1542328593 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"../inc/LinkedList.h"
+
+1542330046 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/Controller.h"
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+	"../inc/utn.h"
+	"../inc/parser.h"
+
+1542330025 /home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/inc/Controller.h
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+
+1542328795 /home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/inc/parser.h
+
+1542330057 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/Controller.h"
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+	"../inc/utn.h"
+	"../inc/parser.h"
+
+1542330061 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+	"../inc/utn.h"
+	"../inc/parser.h"
+
+1542329664 source:/home/alumno/Documentos/Planes/tp_laboratorio_1/TP_4/src/validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"../inc/utn.h"
+
+1542676068 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"../inc/Controller.h"
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+	"../inc/utn.h"
+	"../inc/parser.h"
+
+1542559617 /home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/inc/Controller.h
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+
+1542565073 /home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/inc/LinkedList.h
+
+1542580089 /home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/inc/Employee.h
+	"../inc/LinkedList.h"
+
+1542414788 /home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/inc/utn.h
+
+1542672773 /home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/inc/parser.h
+
+1542675216 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+	"../inc/LinkedList.h"
+	"../inc/utn.h"
+
+1542674302 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/input.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/utn.h"
+
+1542565098 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"../inc/LinkedList.h"
+
+1542672409 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/Controller.h"
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+	"../inc/utn.h"
+	"../inc/parser.h"
+
+1542672798 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+	"../inc/Employee.h"
+	"../inc/utn.h"
+	"../inc/parser.h"
+
+1542673859 source:/home/alexei/Documents/UTN/tp_laboratorio_1/TP_4/src/validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"../inc/utn.h"
+

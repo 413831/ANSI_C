@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1542915376 source:/home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/Compra.c
+	"Compra.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542997754 
+
+1542915376 /home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/Compra.h
+	"LinkedList.h"
+
+1542995694 t.h"
+
+1542909940 source:/home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/LinkedList.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Compra.h"
+	"Parser.h"
+	<ctype.h>
+
+1542762216 /home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/LinkedList.h
+
+1542909350 /home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/Parser.h
+	"LinkedList.h"
+	"Compra.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1542915428 source:/home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"Compra.h"
+	"LinkedList.h"
+	"Parser.h"
+
+1542911059 source:/home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/Parser.c
+	"LinkedList.h"
+	"Compra.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1542563726 /home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/utn.h
+
+1542563726 source:/home/lucas/Escritorio/Prueba-master/EjercicioPre2doParcialV3/EjercicioPre2doParcialV3/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1542997737 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Compra.h"
+	"utn.h"
+	"parser.h"
+
+1542997600 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Compra.h"
+
+1542995692 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\linkedlist.h
+
+1542923068 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\utn.h
+
+1542997850 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\compra.h
+	"LinkedList.h"
+
+1542995136 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542995694 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+
+1542997754 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Compra.h"
+	"LinkedList.h"
+	"parser.h"
+	"utn.h"
+
+1542995274 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\parser.h
+
+1542923068 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\ejerciciopre2doparcialv3\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"utn.h"
+
+1543012475 source:/home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/Compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Compra.h"
+
+1542995692 /home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/LinkedList.h
+
+1542923068 /home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/utn.h
+
+1542997850 /home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/Compra.h
+	"LinkedList.h"
+
+1542995136 source:/home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542995694 source:/home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+
+1543011655 source:/home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Compra.h"
+	"utn.h"
+	"parser.h"
+
+1542995274 /home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/parser.h
+
+1542923068 source:/home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"utn.h"
+
+1543012179 source:/home/alexei/Documents/UTN/Workspace/EjercicioPre2doParcialV3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Compra.h"
+	"LinkedList.h"
+	"parser.h"
+	"utn.h"
+

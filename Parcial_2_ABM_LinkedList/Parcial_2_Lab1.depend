@@ -1,0 +1,297 @@
+# depslib dependency file v1.0
+1542925356 source:/home/alumno/Documentos/Parcial_2_Lab1/input.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542982335 
+
+1542925341 /home/alumno/Documentos/Parcial_2_Lab1/utn.h
+
+1542932477 source:/home/alumno/Documentos/Parcial_2_Lab1/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+
+1542923068 t.h"
+
+1542934449 /home/alumno/Documentos/Parcial_2_Lab1/LinkedList.h
+
+1542934640 source:/home/alumno/Documentos/Parcial_2_Lab1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+	"parser.h"
+	"Controller.h"
+
+1542982279 r.h"
+
+1542920842 source:/home/alumno/Documentos/Parcial_2_Lab1/validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"utn.h"
+
+1542930242 source:/home/alumno/Documentos/Parcial_2_Lab1/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542925596 /home/alumno/Documentos/Parcial_2_Lab1/Venta.h
+	"LinkedList.h"
+
+1542925235 /home/alumno/Documentos/Parcial_2_Lab1/parser.h
+
+1542933606 source:/home/alumno/Documentos/Parcial_2_Lab1/Venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+
+1542934527 source:/home/alumno/Documentos/Parcial_2_Lab1/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542928845 /home/alumno/Documentos/Parcial_2_Lab1/Controller.h
+	"LinkedList.h"
+	"Venta.h"
+
+1542940924 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542939770 /home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/Controller.h
+	"LinkedList.h"
+	"Venta.h"
+
+1542940942 /home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/LinkedList.h
+
+1542940882 /home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/Venta.h
+	"LinkedList.h"
+
+1542938751 /home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/utn.h
+
+1542938751 /home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/parser.h
+
+1542938751 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/input.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542940952 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+
+1542939464 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542938751 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"utn.h"
+
+1542940733 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/Venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+
+1542940332 source:/home/alexei/Documents/UTN/ejercicios_programacion_1/Parcial_2_Lab1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+	"parser.h"
+	"Controller.h"
+
+1542982298 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542923068 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\controller.h
+	"LinkedList.h"
+	"Venta.h"
+
+1542923068 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\linkedlist.h
+
+1542991168 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\venta.h
+	"LinkedList.h"
+
+1542923068 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\utn.h
+
+1542923068 c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\parser.h
+
+1542923068 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+
+1542982279 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+	"parser.h"
+	"Controller.h"
+
+1542975587 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542923068 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"utn.h"
+
+1542982335 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+
+1542971354 source:c:\documents and settings\usuario\mis documentos\2018c2-master\ejercicios_programacion_1-master\parcial_2_lab1\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1543014532 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542923068 /home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/Controller.h
+	"LinkedList.h"
+	"Venta.h"
+
+1542923068 /home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/LinkedList.h
+
+1543014542 /home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/Venta.h
+	"LinkedList.h"
+
+1542923068 /home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/utn.h
+
+1542923068 /home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/parser.h
+
+1543014552 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/input.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542923068 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+
+1542991873 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+	"parser.h"
+	"Controller.h"
+
+1542975587 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Venta.h"
+	"utn.h"
+	"parser.h"
+
+1542923068 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"utn.h"
+
+1543013417 source:/home/alexei/Documents/UTN/Workspace/Parcial_2_Lab1/Venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"LinkedList.h"
+	"utn.h"
+	"Venta.h"
+
